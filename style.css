@@ -332,3 +332,15 @@ footer {
     background: #5B3927;
     color: white !important;
 }
+
+.btn.resume-btn {
+    background: #946746;
+    color: #FFFDF8;
+    border: 2px solid #946746;
+}
+
+.btn.resume-btn:hover {
+    background: #422719;
+    border-color: #422719;
+    transform: translateY(-3px);
+}
